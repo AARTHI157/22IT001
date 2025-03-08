@@ -24,3 +24,4 @@ jobs:
 
       - name: Docker Build
         run: docker push -t aarthi1015/ml-model-22it001 
+        
